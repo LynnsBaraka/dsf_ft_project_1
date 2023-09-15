@@ -82,11 +82,14 @@ Two related variables were studied to find correlations. The following compariso
 Movie studios, years of production, gross foreign and gross domestic returns were compared. 
 
 ### Plots
-The following libraries were used for visualization: Matplotlib, seaborn, plotly
+The following libraries were used for visualization: 
+* Matplotlib
+* seaborn
+* plotly
 A scatterplot of the runtime against the number of votes was visualized. The visualization showed a higher concentration of number of votes with movies between 90 and 150 minutes.
 
-The top 10 genres according to average rating were plotted against the total votes on a bar chart. It was visualized that genre combinations of Action, Adventure, Scifi and Action, Adventure, Fantasy got the highest number of votes
-. 
+The top 10 genres according to average rating were plotted against the total votes on a bar chart. It was visualized that genre combinations of Action, Adventure, Scifi and Action, Adventure, Fantasy got the highest number of votes.
+
 A line chart of the top movie studios, their domestic gross and foreign gross over the years revealed that their returns were more in te foreign market than in the domestic market. 
 
 Recommendations
