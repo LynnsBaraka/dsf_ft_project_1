@@ -86,6 +86,7 @@ The following libraries were used for visualization:
 * Matplotlib
 * seaborn
 * plotly
+* 
 A scatterplot of the runtime against the number of votes was visualized. The visualization showed a higher concentration of number of votes with movies between 90 and 150 minutes.
 
 The top 10 genres according to average rating were plotted against the total votes on a bar chart. It was visualized that genre combinations of Action, Adventure, Scifi and Action, Adventure, Fantasy got the highest number of votes.
